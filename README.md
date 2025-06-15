@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Classifier-using-DistilBERT
+# Sentiment-Analysis-Classifier-using-DistilBERT and Vader
 
 This project explores and compares different sentiment analysis techniques on a dataset of restaurant reviews. It builds three models—VADER, DistilBERT, and a hybrid of both—to classify reviews into three categories:
 
